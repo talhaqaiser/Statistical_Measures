@@ -3,7 +3,7 @@ function [F1_score] =  Calculate_F1Score(tp, fp, fn)
 % they should contain the number of patches 
 
 %------------------------------------------------------------------
-% Author: Talha Qaiser
+% Talha Qaiser
 % Tissue Image Analytics Lab
 % Department of Computer Science, 
 % University of Warwick, UK.
